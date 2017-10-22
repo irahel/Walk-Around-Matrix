@@ -1,3 +1,3 @@
-from sergay import MatrixCicle
+from wam import MatrixCicle
 
 m = MatrixCicle()
