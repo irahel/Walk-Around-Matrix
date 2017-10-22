@@ -3,7 +3,7 @@ walk around matrix in py, runs from the edges to the center in a circle
 
 to a 8 dimension
 
-[0, 0, 0, 0, 0, 0, 0, 0] \n
+[0, 0, 0, 0, 0, 0, 0, 0] 
 [0, 0, 0, 0, 0, 0, 0, 0] 
 [0, 0, 0, 0, 0, 0, 0, 0] 
 [0, 0, 0, 0, 0, 0, 0, 0] 
