@@ -3,7 +3,10 @@ class MatrixCicle:
     def __init__(self):
         self.index = 1
         self.dimension = 8
-        self.matrix = [[0 for x in range(self.dimension)] for y in range(self.dimension)]
+        self.matrix = [
+            [0 for _ in range(self.dimension)] for _ in range(self.dimension)
+        ]
+
         self.matrixCicle(self.matrix, self.dimension)
         print("final: ")
         self.HoraDoShow()
